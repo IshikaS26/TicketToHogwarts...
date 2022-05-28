@@ -1,2 +1,2 @@
-# Trex_new
-Trex game
+Made by:
+         Ishika Singh
